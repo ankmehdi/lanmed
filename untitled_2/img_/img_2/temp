@@ -1,1 +1,65 @@
 
+                    <article class="pokemon" style="background-color: rgb(109, 131, 226);">
+						<div class="img-container">
+						<a href="https://deadshot.io/"target="_blank">	<img src="deadshot-io-d.webp"  alt="2048 Classic"> </a>
+						</div>
+						<div class="info">
+							<a href="https://deadshot.io/"target="_blank"><span class="number"><button>Play</button> </span> </a>
+							<h3 class="name">2048 Classic</h3>
+							<small class="type">* <span>Single Player Game </span></small>
+						</div>					 				
+                    </article>
+
+                    <article class="pokemon" style="background-color: rgb(241 209 181);">
+						<div class="img-container">
+						<a href="https://www.chess.com/fr"target="_blank">	<img src="chess_io.jpeg"  alt="2048 Classic"> </a>
+						</div>
+						<div class="info">
+							<a href="https://www.chess.com/fr"target="_blank"><span class="number"><button>Play</button> </span> </a>
+							<h3 class="name">2048 Classic</h3>
+							<small class="type">* <span>Single Player Game </span></small>
+						</div>
+                  </article>
+                  
+                  <article class="pokemon" style="background-color: rgb(216, 213, 11);">
+                    <div class="img-container">
+                    <a href="https://smashkarts.io/"target="_blank">	<img src="smashkarts_io.png"  alt="2048 Classic"> </a>
+                    </div>
+                    <div class="info">
+                        <a href="https://smashkarts.io/"target="_blank"><span class="number"><button>Play</button>  </span> </a>
+                        <h3 class="name">2048 Classic</h3>
+                        <small class="type">* <span>Single Player Game </span></small>
+                    </div>
+              </article> 
+              
+              <article class="pokemon" style="background-color: rgb(216, 213, 11);">
+                <div class="img-container">
+                <a href="https://agar.io/#ffa"target="_blank">	<img src="agar_io.webp"  alt="2048 Classic"> </a>
+                </div>
+                <div class="info">
+                    <a href="https://agar.io/#ffa"target="_blank"><span class="number"><button>Play</button> </span> </a>
+                    <h3 class="name">2048 Classic</h3>
+                    <small class="type">* <span>Single Player Game </span></small>
+                </div>
+          </article>
+
+          </article>
+              <article class="pokemon" style="background-color: rgb(216, 213, 11);">
+                <div class="img-container">
+                <a href="https://kour.io/"target="_blank">	<img src="kour_io.png"  alt="2048 Classic"> </a>
+                </div>
+                <div class="info">
+                    <a href="https://kour.io/"target="_blank"><span class="number"><button>Play</button>  </span> </a>
+                    <h3 class="name">2048 Classic</h3>
+                    <small class="type">* <span>Single Player Game </span></small>
+                </div>
+          </article>
+        </article>
+        <article class="pokemon" style="background-color: rgb(216, 213, 11);">
+          <div class="img-container">
+          <a href="https://yp3d.com/ships3d/"target="_blank">	<img src="ships3d_io.jpg"  alt="2048 Classic"> </a>
+          </div>
+          <div class="info">
+              <a href="https://yp3d.com/ships3d/"target="_blank"><span class="number"><button>Play</button>  </span> </a>
+              <h3 class="name">2048 Classic</h3>
+              <small class="type">* <span>Single Player Game </span></small>
